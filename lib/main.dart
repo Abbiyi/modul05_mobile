@@ -66,7 +66,7 @@ class _MyHomePageState extends State<MyHomePage> {
                           ),
                           SizedBox(height: 4),
                           Text(
-                            'Green Dayx',
+                            'Green Day',
                             style: TextStyle(fontSize: 14, color: Colors.grey),
                           ),
                         ],
